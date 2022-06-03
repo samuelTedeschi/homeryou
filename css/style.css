@@ -1,0 +1,14 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 36px;
+    margin-bottom: 35px;
+}
+
+nav  ul {
+    display: flex;
+}
