@@ -1,8 +1,16 @@
-.contener_1{
+.contener_um{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-left: 80px;
     padding-right: 80px;
     background:#F9F9F9;
+}
+
+.titulo_um{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    color:#272727;
+    margin-right: 48px;
 }

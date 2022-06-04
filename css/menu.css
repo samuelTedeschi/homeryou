@@ -1,0 +1,32 @@
+.homer{
+    display: flex;
+    align-items: center; 
+}
+
+.logo{
+    background: black;
+    margin-right: 16px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 36px;
+    margin-bottom: 35px;
+    margin-left: 80px;
+    margin-right:80px;
+}
+
+nav  ul {
+    display: flex;
+    align-items: center;
+}
+
+nav ul li {
+    margin-right: 48px;
+}
+
+.logos{
+    margin-right: 35px;
+}
