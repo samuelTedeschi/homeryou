@@ -1,0 +1,10 @@
+.rodape{
+    margin-top: 90px;
+    margin-bottom: 90px;
+    display: flex;
+
+}
+
+.listas{
+    display: flex;
+}
