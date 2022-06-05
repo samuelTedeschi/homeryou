@@ -1,3 +1,32 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+.contener_dois{
+    background: #F9F9F9;
+    padding-bottom: 47px;
+    padding-top: 55px;
+}
+
+.imgs{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.titulo_dois{
+    margin-bottom: 19px;
+    font-size: 32px;
+}
+
+.paragrafo{
+    color:#797979;
+   margin-bottom: 32px;
+}
+
+.contener_tre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 78px;
+    margin-bottom: 80px;
+}
