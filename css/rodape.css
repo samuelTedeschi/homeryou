@@ -1,10 +1,26 @@
 .rodape{
     margin-top: 90px;
     margin-bottom: 90px;
+    margin-left: 80px;
     display: flex;
 
 }
 
 .listas{
     display: flex;
+    align-items: center;
+}
+
+.lista_um{
+    margin-right: 117px;
+    margin-left: 69px;
+}
+
+.lista_doi{
+    margin-right: 135px;
+}
+
+.titulo_lista{
+    font-weight: 600;
+    font-size: 18px;
 }
