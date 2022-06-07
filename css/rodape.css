@@ -31,14 +31,16 @@
 
 @media only screen and (max-width: 600px){
     .rodape{
-        margin: 0;
+        margin-left: 24px;
+        margin-right: 24px;
         padding-top: 38px;
+        display: grid;
     }
 
     .listas{
         display: grid;
-        margin-left: 24px;
-        
+        justify-content: center;
+        align-content: center;
     }
 
     .lista_um{

@@ -30,3 +30,50 @@ nav ul li {
 .logos{
     margin-right: 35px;
 }
+
+@media only screen and (max-width: 600px){
+    .homer{
+        display: flex;
+        align-items: center;
+    }
+
+    .menu{
+        margin-left: 0;
+    }
+    
+    .logo{
+        width: 24px;
+        margin-right: 8px;
+        margin-left: 24px;
+    }
+    
+    .titulo_logo{
+        font-size: 16px;
+        
+    }
+
+    .menu-burg{
+        display: flex;
+        flex-direction: column;
+        margin-left: 163px;
+
+    }
+
+    .burg{
+        width: 28px;
+        height: 1px;
+        background-color: black;
+        margin: 4px 0;
+    }
+
+    nav ul li {
+        display: none;
+    }
+
+    .busca{
+        display: none;
+    }
+    .logos{
+        display: none;
+    }
+}
