@@ -18,3 +18,24 @@
 #botao{
     margin-right: 40px;
 }
+
+@media only screen and (max-width: 600px){
+    .img-principal{
+        display: none;
+    }
+
+    .contener_um{
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .titulo_um{
+        font-size: 24px;
+        margin-right: 0;
+        margin-bottom: 24px;
+    }
+
+    #botao{
+        margin-right: 21px;
+    }
+}

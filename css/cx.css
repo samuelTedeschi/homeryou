@@ -1,0 +1,48 @@
+.cx{
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.cx_conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    margin-top: 269px;
+    margin-left: 106px;
+    margin-bottom: 24px;
+}
+
+.link{
+    color: #272727;
+    margin-bottom: 223px;
+}
+
+.img-1{
+    margin-left: 50px;
+   filter: drop-shadow(-50px -50px #272727)
+}
+
+@media only screen and (max-width: 600px){
+    .img-1{
+        display: none;
+    }
+
+    .cx{
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+    .cx_conteudo{
+        margin-top: 40px;
+        margin-left: 24px;
+        display: flex;
+        align-items: center;
+    }
+
+    .link{
+        margin-bottom: 74px;
+    }
+}

@@ -24,3 +24,35 @@
     font-weight: 600;
     font-size: 18px;
 }
+
+.logo-2{
+    background-color: black;
+}
+
+@media only screen and (max-width: 600px){
+    .rodape{
+        margin: 0;
+        padding-top: 38px;
+    }
+
+    .listas{
+        display: grid;
+        margin-left: 24px;
+        
+    }
+
+    .lista_um{
+        margin-left: 0;
+
+    }
+
+    .lista_doi{
+        margin: 0;
+    }
+
+
+    .logo-2{
+        display: none;
+    }
+
+}

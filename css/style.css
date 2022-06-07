@@ -23,13 +23,6 @@ body{
    margin-bottom: 32px;
 }
 
-.cx{
-    display: flex;
-    align-items: center;
-    margin-left: 80px;
-    margin-right: 80px;
-}
-
 .contener_tre{
     display: flex;
     flex-direction: column;
@@ -38,21 +31,18 @@ body{
     margin-bottom: 80px;
 }
 
-.cx_conteudo{
-    display: flex;
-    flex-direction: column;
-    justify-content:start;
-    margin-top: 269px;
-    margin-left: 106px;
-    margin-bottom: 24px;
-}
-
-.link{
-    color: #272727;
-    margin-bottom: 223px;
-}
-
-.img-1{
-    margin-left: 50px;
-   filter: drop-shadow(-50px -50px #272727)
+@media only screen and (max-width: 600px){
+    .imgs{
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+    .img_casa{
+        margin-bottom: 24px;
+        width: 312px;
+        height: 350px;
+    }
+    .paragrafo{
+        margin-left: 24px;
+        margin-right: 24px;
+    }
 }
