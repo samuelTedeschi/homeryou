@@ -1,2 +1,3 @@
 <h1> HomerYou </h1>
-<p>Langpage </p>
+<p>Langpage de design de interior</p>
+https://samueltedeschi.github.io/homeryou/
