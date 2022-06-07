@@ -1,5 +1,5 @@
 <h1> HomerYou </h1>
-<p>Langpage de design de interior</p>
+<p>Desafio 25 da comunidade Codelandia, Fazer uma landing page de disign de inetrior </p>
 <br>
 https://samueltedeschi.github.io/homeryou/
 <br>
