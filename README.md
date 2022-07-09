@@ -1,9 +1,17 @@
-<h1> HomerYou </h1>
-<p>Desafio 25 da comunidade Codelandia, Fazer uma landing page de disign de inetrior </p>
-<br>
-https://samueltedeschi.github.io/homeryou/
-<br>
+# HomerYou
+Landing page de disign de inetrior. Projeto proposto pela Comunidade Codelandia  
 
-![baner](https://github.com/samuelTedeschi/homeryou/blob/master/Captura%20de%20tela_2022-06-07_10-48-17.png)
+
+## Demonstração
+
+https://samueltedeschi.github.io/homeryou/
+## Aprendizados
+
+Aprendi e revisei meus conhecimentos em Css e Responsividade
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/samuelTedeschi/homeryou/blob/master/Captura%20de%20tela_2022-06-07_10-48-17.png)
 
 
